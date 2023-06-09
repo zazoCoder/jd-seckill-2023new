@@ -1,0 +1,30 @@
+计算sk:zr7oflx9p335iWYurie
+Expecting value: line 1 column 1 (char 0)
+Get Divide跳转链接-------------->https://marathon.jd.com/m/captcha.html?sid=b8385a800e93b184ff8bb16a0e79d8aw&skuId=10001
+2043978&mid=rvXgpdduG3wnlgfPzI2wXkvpgNqF4IA9qcWds4ffipY
+Get Captcha跳转链接-------------->https://marathon.jd.com/mobile/koFail.html
+init action返回数据：{"address":{"addressDetail":"西李村","areaCode":"999999","cityId":2900,"cityName":"济宁市","countyI
+d":2917,"countyName":"金乡县","defaultAddress":false,"id":6188735630,"mobile":"133****4689","mobileKey":"f7dcf949de1a7b4
+27463a9dd90f632e1","name":"王秋娟","overseas":0,"phone":"","postCode":"","provinceId":13,"provinceName":"山东","selected
+":true,"townId":25860,"townName":"鱼山街道","yuyueAddress":false},"buyNum":2,"code":"200","invoiceInfo":{"invoiceContent
+Type":1,"invoicePhone":"133****4689","invoicePhoneKey":"f7dcf949de1a7b427463a9dd90f632e1","invoiceTitle":4,"invoiceType"
+:3},"jingdouBO":{"canUseCount":0,"forbidUseJingdou":false,"jingdouDiscount":0,"jingdouSteps":[],"pointsDeductionRate":50
+,"rate":100,"totalCount":179,"usedCount":0},"orderPriceBO":{"couponAbleNum":0,"couponDiscount":0.00,"couponDiscountTotal
+":0.00,"couponSelectNum":0,"couponTypeList":[],"freight":0.00,"giftCardAbleNum":0,"giftCardDiscount":0.00,"giftCardSelec
+tNum":0,"jingdouDiscount":0,"manjianDiscount":0.00,"orderTax":0.00,"productTotalPrice":1499.00,"redPacketDeductionAmount
+":0,"redPacketIsSelected":false,"redPacketTotalAmount":0,"showXuZhongInfo":false,"totalPrice":1499.00,"weight":"1.12","y
+unfeiDiscount":0.00},"payment":{"paymentId":4,"paymentName":"在线支付"},"preSaleBO":{"hidePrice":false,"refundDeposit":f
+alse},"seckillOrderExt":{},"seckillSkuVO":{"color":"飞天 53%vol 500ml 贵州茅台酒","extMap":{"YuShou":"1","is7ToReturn":"
+0","new7ToReturn":"8","thwa":"0","SoldOversea":"0"},"height":0.0,"jdPrice":1499.00,"length":0.0,"num":1,"rePrice":0.00,"
+size":"","skuId":100012043978,"skuImgUrl":"jfs/t1/204850/31/20522/123067/61af3d74E747493f0/385d705a66b5263b.jpg","skuNam
+e":"飞天 53%vol  500ml 贵州茅台酒（带杯）","skuPrice":1499.00,"thirdCategoryId":0.0,"venderName":"京东自营","venderType"
+:0,"weight":1.120,"width":0.0},"shipment":{"bundleUuid":"BundleRelation_1125395520593502208","obtainAllCombinationBundle
+":"CombinationBundleRelation_1125395520425730051","obtainOrder":"-1719262869","shipmentTimeType":4,"shipmentTimeTypeName
+":"标准达","shipmentType":65,"shipmentTypeName":"京东配送","uuid":"101612_1125395520610279424"},"token":"fdc90dde774b3c5
+84b613a8b33050a95","userInfoBO":{"userScore":5525}}
+计算sk:6ktun1kxw1gypV4GMMQ
+抢购结果:{'appUrl': 'https://mpay.m.jd.com/mpay.1ec8f70280318a51e2bb.html?appId=jd_m_msha&payId=3420cb4f0d7a4424b53f8ae7
+81f542f6', 'orderId': 250387144183, 'pcUrl': '//sko.jd.com/success/success.action?orderId=250387144183&rid=0.88556282118
+81714', 'resultCode': 0, 'skuId': 0, 'success': True, 'totalMoney': '1499.00'}
+耗时:941
+Get Divide跳转链接-------------->https://marathon.jd.com/m/captcha.html?sid=b8385a800e93b184ff8bb16a0e79d8aw&skuId=10001
