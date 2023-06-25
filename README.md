@@ -28,7 +28,7 @@ IOS抓包推荐：App Store里面的Stream;
 
 ### 软件试用
 
-[点击下载](https://github.com/zazoCoder/jd-seckill-2023new/main/kill-maotai.exe)
+暂时下架
 
 
 获取完整代码请联系： ZAZOCoder(微信)
