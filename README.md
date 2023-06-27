@@ -19,8 +19,7 @@ IOS抓包推荐：App Store里面的Stream;
 拿到跳转链接后，直接将该跳转链接仍给浏览器即可，浏览器会经过两次302跳转得到sekill.action链接，从而渲染出提交订单页面，此时我们需要模拟点击“提交订单”按钮，实现抢购。（可以使用Selenium、Pyppeteer或Playwright等类库 来模拟浏览器）
 
 
-注意：京东茅台抢购，是有门槛的，帐号信用分需104分以上。 可使用京东app扫码查看信用分。
-![](https://github.com/geeeeeeeek/jd-seckill-2022/blob/main/fenshu.jpg?raw=true)
+注意：京东茅台抢购，是有门槛的，帐号信用分需104分以上。
 
 此次基于原有的代码进行了修改，提高了抢购稳定性，IOS和安卓的是不同配置；
 
