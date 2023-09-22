@@ -43,7 +43,7 @@ def work(killTime, ck, sku):
     killTimeTs = utils.getTimeStamp(killTime, format='%Y-%m-%d %H:%M:%S.%f')
 
     syncedTime = False
-    hasYuyue = False
+    hasYuyue = False 
 
     timeDiff = 0  # 时差
 

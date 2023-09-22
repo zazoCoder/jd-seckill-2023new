@@ -11,7 +11,7 @@ import requests
 from jd.tools import utils
 from jd.JDMain import JDSecKillSubmit
 from jd.api_timer import JDTimer
-
+ 
 
 
 def syncTime():
